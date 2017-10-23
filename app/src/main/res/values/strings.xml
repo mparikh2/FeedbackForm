@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Feedback</string>
+    <string name="subject_spinner_title">Subject</string>
+    <string name="channel_spinner_title">Channel</string>
+    <string name="request_reply">Request Reply</string>
+
+    <!-- Other channel titles -->
+    <string name="news_title">News</string>
+    <string name="bus_title">Bus</string>
+    <string name="events_title">Events</string>
+    <string name="careers_title">Career Services</string>
+    <string name="libraries_title">Libraries</string>
+
+</resources>
